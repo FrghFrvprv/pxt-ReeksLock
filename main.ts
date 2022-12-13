@@ -1,1 +1,1 @@
-
+CodeCosmos.unlockWorld("code")
