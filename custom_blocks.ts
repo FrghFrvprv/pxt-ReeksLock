@@ -8,7 +8,6 @@ namespace CodeCosmos {
 
             player.execute(`scoreboard players set @a lock_clock ${duration}`)
             player.execute("effect @s clear");
-            player.execute("fill ~-2 ~ ~-2 ~2 ~2 ~2 air")
         } else {
             player.execute("say Wrong code!");
         }
