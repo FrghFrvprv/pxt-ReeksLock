@@ -1,7 +1,8 @@
 ### @hideIteration true
 ### @flyoutOnly true
-# Missie 5 (v1.0)
+# Missie 5 (v1.1)
 ```blocks
+CodeCosmos.unlockWorld("code")
 ```
 
 ```template
