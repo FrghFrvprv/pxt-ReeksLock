@@ -1,7 +1,6 @@
 //% color=190 weight=100 block="CodeCosmos"
 namespace CodeCosmos {
-    //% block="unlockWorld code:$code"
-    //% block.loc.nl="ontgrendelWereld $code"
+    //% block="ontgrendelWereld $code"
     export function unlockWorld(code: string) {
         if (code === "code123") {
             const duration = 20*60*90
