@@ -7,10 +7,10 @@
         "builder": "*"
     },
     "files": [
-        "README.md",
         "main.blocks",
         "main.ts",
-        "custom_blocks.ts"
+        "custom_blocks.ts",
+        "t_lock.md"
     ],
     "testFiles": [
         "test.ts"
