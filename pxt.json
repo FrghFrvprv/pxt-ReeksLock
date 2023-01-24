@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "custom_blocks.ts",
-        "t_lock.md"
+        "t_lock.md",
+        "README.md"
     ],
     "testFiles": [
         "test.ts"
