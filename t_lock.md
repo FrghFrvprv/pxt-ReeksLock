@@ -2,12 +2,12 @@
 ### @flyoutOnly true
 # Unlock (v1.1)
 ```blocks
-CodeCosmos.unlockWorld("code")
+CodeCosmosEN.unlockWorld("code")
 ```
 
 ```template
-CodeCosmos.unlockWorld("code")
+CodeCosmosEN.unlockWorld("code")
 ```
 
-## Unlock wereld
-Voer de code van het leerplatform in en druk op start (rechts onderaan).
+## Unlock world
+Fill in the code from the learningplatform and press the big, green play button.
