@@ -1,6 +1,6 @@
 ### @hideIteration true
 ### @flyoutOnly true
-# Unlock (v1.1)
+# Unlock (v1.2)
 ```blocks
 CodeCosmosEN.unlockWorld("code")
 ```
