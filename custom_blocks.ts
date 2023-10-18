@@ -2,7 +2,7 @@
 namespace CodeCosmos {
     //% block="ontgrendelWereld $code"
     export function unlockWorld(code: string) {
-        if (code === "code123") {
+        if (code === "code20232024") {
             const duration = 20*60*60*3
 
             player.execute(`scoreboard players set @a lock_clock ${duration}`)
