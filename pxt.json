@@ -12,7 +12,6 @@
         "custom_blocks.ts",
         "t_lock.md",
         "_locales/nl/t_lock.md",
-
         "reeks1/t_reeks1missie1.md",
         "reeks1/t_reeks1missie2.md",
         "reeks1/t_reeks1missie3.md",
@@ -21,7 +20,6 @@
         "reeks1/t_reeks1missie6.md",
         "reeks1/t_reeks1missie7.md",
         "reeks1/t_reeks1missie8.md",
-
         "reeks2/t_reeks2missie1.md",
         "reeks2/t_reeks2missie2.md",
         "reeks2/t_reeks2missie3.md",
@@ -31,7 +29,6 @@
         "reeks2/t_reeks2missie7.md",
         "reeks2/t_reeks2missie8.md",
         "reeks2/t_reeks2missie9.md"
-
     ],
     "testFiles": [
         "test.ts"
