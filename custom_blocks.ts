@@ -126,13 +126,6 @@ namespace CodeCosmos {
         }
     }
     
-    //% block="unlockWorld reeks2missi3 $code"
-    export function unlockWorldReeks2Missie3(code: string) {
-        if (code === codes.reeks2missie3) {
-            player.execute("scriptevent cc:auth");
-        }
-    }
-    
     //% block="unlockWorld reeks2missi4 $code"
     export function unlockWorldReeks2Missie4(code: string) {
         if (code === codes.reeks2missie4) {
