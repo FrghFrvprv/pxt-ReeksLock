@@ -1,45 +1,45 @@
 {
-  "name": "pxt-reeks1lock",
-  "version": "1.0.0",
-  "description": "",
-  "dependencies": {
-    "core": "*",
-    "builder": "*"
-  },
-  "files": [
-    "main.blocks",
-    "main.ts",
-    "custom_blocks.ts",
-    "t_lock.md",
-    "_locales/nl/t_lock.md",
-    "t_reeks1missie1.md",
-    "t_reeks1missie2.md",
-    "t_reeks1missie3.md",
-    "t_reeks1missie4.md",
-    "t_reeks1missie5.md",
-    "t_reeks1missie6.md",
-    "t_reeks1missie7.md",
-    "t_reeks1missie8.md",
-    "t_reeks2missie1.md",
-    "t_reeks2missie2.md",
-    "t_reeks2missie3.md",
-    "t_reeks2missie4.md",
-    "t_reeks2missie5.md",
-    "t_reeks2missie6.md",
-    "t_reeks2missie7.md",
-    "t_reeks2missie8.md",
-    "t_reeks2missie9.md"
-  ],
-  "testFiles": [
-    "test.ts"
-  ],
-  "public": true,
-  "targetVersions": {
-    "target": "1.7.28",
-    "targetId": "minecraft"
-  },
-  "supportedTargets": [
-    "minecraft"
-  ],
-  "preferredEditor": "tsprj"
+    "name": "pxt-reeks1lock",
+    "version": "1.0.0",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "custom_blocks.ts",
+        "t_lock.md",
+        "_locales/nl/t_lock.md",
+        "t_reeks1missie2.md",
+        "t_reeks1missie3.md",
+        "t_reeks1missie4.md",
+        "t_reeks1missie5.md",
+        "t_reeks1missie6.md",
+        "t_reeks1missie7.md",
+        "t_reeks1missie8.md",
+        "t_reeks2missie1.md",
+        "t_reeks2missie2.md",
+        "t_reeks2missie3.md",
+        "t_reeks2missie4.md",
+        "t_reeks2missie5.md",
+        "t_reeks2missie6.md",
+        "t_reeks2missie7.md",
+        "t_reeks2missie8.md",
+        "t_reeks2missie9.md",
+        "t_reeks1missie1.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "targetVersions": {
+        "target": "1.7.28",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "tsprj"
 }
