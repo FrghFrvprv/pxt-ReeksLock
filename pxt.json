@@ -30,12 +30,16 @@
     "t_reeks2missie8.md",
     "t_reeks2missie9.md"
   ],
-  "testFiles": ["test.ts"],
+  "testFiles": [
+    "test.ts"
+  ],
   "public": true,
   "targetVersions": {
     "target": "1.7.28",
     "targetId": "minecraft"
   },
-  "supportedTargets": ["minecraft"],
+  "supportedTargets": [
+    "minecraft"
+  ],
   "preferredEditor": "tsprj"
 }
