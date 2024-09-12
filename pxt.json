@@ -13,7 +13,6 @@
         "t_lock.md",
         "custom_blocks_EN.ts",
         "_locales/nl/t_lock.md",
-        
         "t_reeks1missie1.md",
         "t_reeks1missie2.md",
         "t_reeks1missie3.md",
@@ -22,7 +21,6 @@
         "t_reeks1missie6.md",
         "t_reeks1missie7.md",
         "t_reeks1missie8.md",
-
         "t_reeks2missie1.md",
         "t_reeks2missie2.md",
         "t_reeks2missie3.md",
@@ -38,7 +36,7 @@
     ],
     "public": true,
     "targetVersions": {
-        "target": "1.6.32",
+        "target": "1.7.28",
         "targetId": "minecraft"
     },
     "supportedTargets": [
