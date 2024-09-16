@@ -4,22 +4,22 @@ namespace CodeCosmos {
     let codes = {
         reeks1missie1: "CreeperExplodesNearHouse",
         reeks1missie2: "DiamondPickaxeMinesStone",
-        reeks1missie3: "code3",
-        reeks1missie4: "code4",
-        reeks1missie5: "code5",
-        reeks1missie6: "code6",
-        reeks1missie7: "code7",
-        reeks1missie8: "code8",
+        reeks1missie3: "EnderDragonFlyingHigh",
+        reeks1missie4: "ZombieAttacksAtNight",
+        reeks1missie5: "SkeletonShootsArrowsFast",
+        reeks1missie6: "NetherPortalGlowsBright",
+        reeks1missie7: "SteveCraftsIronSword",
+        reeks1missie8: "VillagerTradesEmeraldsDaily",
 
-        reeks2missie1: "code9",
-        reeks2missie2: "code10",
-        reeks2missie3: "code11",
-        reeks2missie4: "code12",
-        reeks2missie5: "code13",
-        reeks2missie6: "code14",
-        reeks2missie7: "code15",
-        reeks2missie8: "code16",
-        reeks2missie9: "code17"
+        reeks2missie1: "RedstonePowersMachines",
+        reeks2missie2: "CreeperStalksFromBehind",
+        reeks2missie3: "EnchantedBowShootsTrue",
+        reeks2missie4: "EndermanTeleportsAwaySilently",
+        reeks2missie5: "PotionBrewsInCauldron",
+        reeks2missie6: "PiglinsGuardNetherFortress",
+        reeks2missie7: "WolvesHuntWithSteve",
+        reeks2missie8: "AxolotlSwimsUnderwater",
+        reeks2missie9: "LlamaSpitsOnEnemies"
 
     }
 
