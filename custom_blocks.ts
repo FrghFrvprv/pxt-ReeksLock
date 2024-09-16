@@ -2,7 +2,7 @@
 namespace CodeCosmos {
 
     let codes = {
-        reeks1missie1: "code1",
+        reeks1missie1: "CreeperExplodesNearHouse",
         reeks1missie2: "code2",
         reeks1missie3: "code3",
         reeks1missie4: "code4",
